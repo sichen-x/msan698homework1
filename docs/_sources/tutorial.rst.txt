@@ -1,4 +1,4 @@
 My Code Tutorial
 ================
 
-Simply run $python hw1._Chen_Si.py in the code directory.
+Simply run $python hw1_Chen_Si.py in the code directory.
